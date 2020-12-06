@@ -1,1 +1,3 @@
-#EXTM3U #EXTINF:-1,RD - https://playback.akamaized.net/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media/28126860_8825282_lsirgdq7ap8zhdn89tv_1@3628000p.m3u8?dw=14400&ts=1607263200&hdnts=exp=1607436491~acl=/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media*~hmac=cf90e26ce8c64de78675d9d96a58213f411866001b1aa991eb39599d144cdd8e
+#EXTM3U 
+#EXTINF:-1,RD canal 5
+https://playback.akamaized.net/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media/28126860_8825282_lsirgdq7ap8zhdn89tv_1@3628000p.m3u8?dw=14400&ts=1607263200&hdnts=exp=1607436491~acl=/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media*~hmac=cf90e26ce8c64de78675d9d96a58213f411866001b1aa991eb39599d144cdd8e
